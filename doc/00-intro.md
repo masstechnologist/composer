@@ -191,3 +191,4 @@ Woah! Now start using monolog! To keep learning more about Composer, keep
 reading the "Basic Usage" chapter.
 
 [Basic Usage](01-basic-usage.md) &rarr;
+
